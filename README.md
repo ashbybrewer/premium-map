@@ -2,6 +2,8 @@
 
 **The second mortgage nobody signed.**
 
+### ▶ [Launch the live instrument →](https://ashbybrewer.github.io/premium-map/)
+
 Homeowners insurance is quietly becoming a second housing payment. This is a national instrument on that repricing: county-level premium escalation, non-renewals, insured losses, federal disaster history, and insurer withdrawals — 3,142 counties, 2018–2025ᴱ, in one interactive. Journalists have covered this story state by state; this is the national view, built entirely from public records, with every figure tagged **`SOURCED`** or **`MODELED`**.
 
 **Demo:** open `index.html`. No build step, no server required (all data ships as local JS modules; a static host like GitHub Pages works out of the box).
