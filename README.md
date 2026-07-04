@@ -8,6 +8,8 @@ Homeowners insurance is quietly becoming a second housing payment. This is a nat
 
 **Demo:** open `index.html`. No build step, no server required (all data ships as local JS modules; a static host like GitHub Pages works out of the box).
 
+Companion instrument: [**CAP//RATE**](https://ashbybrewer.github.io/cap-rate-map/) — the insurance-adjusted cap rate map, which re-underwrites every county with this premium series.
+
 ---
 
 ## What it shows
